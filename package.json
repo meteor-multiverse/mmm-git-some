@@ -1,7 +1,7 @@
 {
   "name": "mmm-git-some",
   "description": "Meteor Multiverse Manager wrapper for some basic Git CLI functionality",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "James M. Greene",
     "email": "james.m.greene@gmail.com",
@@ -10,12 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edSpring/mmm-git-some.git"
+    "url": "git+https://github.com/meteor-multiverse/mmm-git-some.git"
   },
   "bugs": {
-    "url": "https://github.com/edSpring/mmm-git-some/issues"
+    "url": "https://github.com/meteor-multiverse/mmm-git-some/issues"
   },
-  "homepage": "https://github.com/edSpring/mmm-git-some#readme",
+  "homepage": "https://github.com/meteor-multiverse/mmm-git-some#readme",
   "keywords": [],
   "main": "index.js",
   "scripts": {

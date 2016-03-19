@@ -1,7 +1,7 @@
 {
   "name": "mmm-git-some",
   "description": "Meteor Multiverse Manager wrapper for some basic Git CLI functionality",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": {
     "name": "James M. Greene",
     "email": "james.m.greene@gmail.com",

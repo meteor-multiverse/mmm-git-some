@@ -1,7 +1,7 @@
 {
   /* Enforcing options */
   "bitwise": true,
-  "camelcase": false, /* IDEAL: `true` */
+  "camelcase": true,
   "curly": true,
   "eqeqeq": true,
   "es3": true,

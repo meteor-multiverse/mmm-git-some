@@ -1,4 +1,4 @@
-/*jshint node:true, maxstatements: false, maxlen: false */
+/*jshint maxstatements: false */
 
 module.exports = function(grunt) {
   "use strict";
